@@ -1,0 +1,40 @@
+[
+{
+  "price": "573",
+  "period": "monthly",
+  "name": "starter",
+  "setup": "Free setup",
+  "websites": "50 websites",
+  "storage": "55GB Storage",
+  "bandwidth": "50GB Bandwidth",
+  "support": "9 months support ",
+  "suite": "Apt. 556",
+  "subdomains": "Unlimited Subdomains"
+},
+
+{
+  "price": "234",
+  "period": "monthly",
+  "name": "standard",
+  "setup": "Free setup",
+  "websites": "50 websites",
+  "storage": "55GB Storage",
+  "bandwidth": "50GB Bandwidth",
+  "support": "9 months support ",
+  "suite": "Apt. 556",
+  "subdomains": "Unlimited Subdomains"
+},
+
+{
+  "price": "1234",
+  "period": "monthly",
+  "name": "professional",
+  "setup": "Free setup",
+  "websites": "50 websites",
+  "storage": "55GB Storage",
+  "bandwidth": "50GB Bandwidth",
+  "support": "9 months support ",
+  "suite": "Apt. 556",
+  "subdomains": "Unlimited Subdomains"
+}
+  ]
